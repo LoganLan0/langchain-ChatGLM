@@ -54,7 +54,7 @@ llm_model_dict = {
     },
     "chatglm-6b": {
         "name": "chatglm-6b",
-        "pretrained_model_name": "THUDM/chatglm-6b",
+        "pretrained_model_name": "THUDM/chatglm2-6b",
         "local_model_path": None,
         "provides": "ChatGLM"
     },
